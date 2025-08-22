@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body, #root { height: 100%; }
+body { background: #0b0b10; color: white; }
+.brand-grad { background: linear-gradient(135deg, #FFC6A5 0%, #2ECC71 100%); }
