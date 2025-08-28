@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+
+# Env
+.env
+.env.*.local
+
+# Editors/OS
+.vscode/
+.DS_Store
